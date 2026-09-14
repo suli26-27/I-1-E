@@ -77,6 +77,21 @@ szit.hu
 Oktatás > Web > HTML > HTML feladatok
 https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
 
+Feladat 001 megoldva
+
+blokk/
+  |-index.html
+  `lista.html
+
+Visual Studio Code indítása TC-ből (Total Commander):
+code .
+
+TC-ben az utoljára használt parancsok:
+Ctrl + Le
+
+
+
+
 
 
 
