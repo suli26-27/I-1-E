@@ -42,9 +42,41 @@ Shift + F4
 
 2026-09-14
 
+github.com/oktat/tan
+  prog_alap
+
+NJ/2026-09-14/blokk/index.html
+
+code .
+
+i
+<i>Lorem ipsum</i>
+
+<br>
+<br />
+
+TC:  átnevezés: <kbd>Shift + F6<kdb>
+
+
+<var>PATH</var>
+
+<code>
+    <pre>
+#include &lt;stdio.h&gt;
+
+int main() {
+    printf("Valami\n");
+}   
+    </pre>
+</code>
+
+
+
+
 szit.hu
 Oktatás > Web > HTML > HTML feladatok
 https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok
+
 
 
 
