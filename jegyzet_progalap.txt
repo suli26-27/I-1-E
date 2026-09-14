@@ -38,6 +38,10 @@ c:\users\diak\dev\I-1-E\progalap\hello
 Új fájl létrehozása:
 Shift + F4
 
+====================
+
+2026-09-14
+
 
 
 
