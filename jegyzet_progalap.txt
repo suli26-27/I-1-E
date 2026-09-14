@@ -89,9 +89,10 @@ code .
 TC-ben az utoljára használt parancsok:
 Ctrl + Le
 
+Home
+End
 
-
-
+ul>li*4
 
 
 
