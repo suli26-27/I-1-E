@@ -152,8 +152,32 @@ git add index.html
 git commit -m "Második bekezdés hozzáadva"
 git status -u
 
+git log
+
+Lapozó programból kilépés:
+Q
+
+__Git ágak használata__
+
+git branch dev
+git checkout dev
+
+Mivel leht átálni?
+
+git checkout dev
+...
+...
+git switch dev
 
 
+
+git switch dev
+...
+...
+...
+
+Legközelebb:
+  A háttérkép pozicionálása
 
 
 
