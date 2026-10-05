@@ -137,6 +137,23 @@ Bemutatkozás:
 git config --global user.name "Erős István"
 git config --global user.email eros@valahol.lan
 
+git status -u
+
+git add index.html
+
+git commit -m "Kezdés"
+
+git log
+
+
+git status -u
+
+git add index.html
+git commit -m "Második bekezdés hozzáadva"
+git status -u
+
+
+
 
 
 
