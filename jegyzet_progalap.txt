@@ -108,6 +108,67 @@ Videók közzét téve
 Legközelebb:
   Webhibák fejezet
 
+==================
+
+2026-10-05
+
+__Webhibák__
+
+github.com/oktat/tan
+
+2026-10-05/
+  |-webhi/
+     |-index.html
+
+Terminál ablak
+Ctrl + J
+   
+prompt - várakozási jel
+
+prompt $$ 
+
+Képernyőtörlés
+cls
+
+Git tároló létrehozása helyben
+git init
+
+Bemutatkozás:
+git config --global user.name "Erős István"
+git config --global user.email eros@valahol.lan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
