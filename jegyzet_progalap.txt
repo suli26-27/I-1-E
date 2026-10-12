@@ -192,7 +192,16 @@ szit.hu
 Oktatás > Web > HTML > HTML feladatok
 Feladat 055
 
+
 https://szit.hu/doku.php?id=oktatas:web:html:html_feladatok#feladat_055
+
+Amit le kell adni:
+index.html
+
+kocsi/
+  |-index.html
+
+
 
 __CSS-háttérkép__
 
