@@ -201,6 +201,11 @@ index.html
 kocsi/
   |-index.html
 
+Kijelölök 8 üres sort
+Shift + Alt + I
+<li> elemet írok
+Ctrl + V
+A list kész
 
 
 __CSS-háttérkép__
