@@ -1,3 +1,5 @@
+13 terem
+
 Programozás alapok
 
 ====================
@@ -183,6 +185,12 @@ Legközelebb:
 ====================
 
 2026-10-12
+
+__Dolgozat gyakorlás__
+
+szit.hu
+Oktatás > Web > HTML > HTML feladatok
+Feladat 055
 
 __CSS-háttérkép__
 
