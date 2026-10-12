@@ -180,6 +180,13 @@ Legközelebb:
   A háttérkép pozicionálása
 
 
+====================
+
+2026-10-12
+
+__CSS-háttérkép__
+
+
 
 
 
