@@ -453,7 +453,7 @@ lebeg.css
 
 Legközelebb:
 	CSS táblázatok
-
+    Python-nál a Tuple jön
 
 
 
