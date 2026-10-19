@@ -424,7 +424,7 @@ Fix méretű             Dinamikus méretű
 Python: List
 
 Legközelebb:
-  (margin: auto)
+  (Dobozmodell: margin: auto)
  	Python Gyakorlás
 	Tuple
 
