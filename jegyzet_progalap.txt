@@ -428,7 +428,31 @@ Legközelebb:
  	Python Gyakorlás
 	Tuple
 
+===================
 
+2026-10-19
+
+__CSS dobozmodell__
+
+
+github.com/oktat/tan
+
+2026-10-19/
+  |-index.html
+  `-style.css
+
+
+Megjegyzés:
+	sorrea állok
+    Cltr + Ü
+    Linuxon: Ctrl + Shift + 6
+
+
+lebeg.html
+lebeg.css
+
+Legközelebb:
+	CSS táblázatok
 
 
 
