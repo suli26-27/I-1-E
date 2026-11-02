@@ -499,6 +499,19 @@ szit.hu
 
 Feladat 0155
 
+feladat0155/
+   |-index.html
+   `-style.css
+
+__Reszponzív__
+
+resz/
+  |-index.html
+  `-style.css
+
+
+
+
 
 
 Legközelebb:
