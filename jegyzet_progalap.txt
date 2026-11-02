@@ -522,7 +522,8 @@ resz/
 
 
 Legközelebb:
-	CSS végig néztük, következik: 05 Reszponzív weboldalak
+	Bootstrap
+	Python Tuple
  
 
 
