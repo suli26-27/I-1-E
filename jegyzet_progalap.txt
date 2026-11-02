@@ -456,8 +456,54 @@ Legközelebb:
     Python-nál a Tuple jön
 	Gyakorlás dolgozatra: CSS - Feladat 0155
 
+=================
+
+2026-11-02
+
+szit.hu/int
+	Google Tanterem
+
+__CSS táblázatok__
 
 
+2026-11-02/
+  |-table/
+     |-index.html
+     `-style.css
+
+table>tr*3>td*3
+
+github.com/oktat/tan
+
+__Z-index__
+
+2026-11-02/
+  |-table/
+     |-index.html
+     |-zin.html
+     |-zin.css
+     `-style.css
+
+__Mértékegységek__
+
+px
+%
+
+
+__Dolgozatra gyakorlás__
+
+CSS
+szit.hu
+   Oktatás > Web > CSS > Feladatok
+      Szegélyek-ig
+
+Feladat 0155
+
+
+
+Legközelebb:
+	CSS végig néztük, következik: 05 Reszponzív weboldalak
+ 
 
 
 
