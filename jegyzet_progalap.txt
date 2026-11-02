@@ -454,9 +454,7 @@ lebeg.css
 Legközelebb:
 	CSS táblázatok
     Python-nál a Tuple jön
-
-
-
+	Gyakorlás dolgozatra: CSS - Feladat 0155
 
 
 
