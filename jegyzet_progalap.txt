@@ -509,6 +509,13 @@ resz/
   |-index.html
   `-style.css
 
+__Flex dobozok__
+
+resz/
+  |-index.html
+  |-flex.html
+  |-flex.css
+  `-style.css
 
 
 
