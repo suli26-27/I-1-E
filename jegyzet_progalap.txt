@@ -525,10 +525,56 @@ Legközelebb:
 	Bootstrap
 	Python Tuple
  
+==================
+
+2026-11-11
+
+__Bootstrap__
+
+2 mód:
+	class="valmi"
+	másolunk - getbootstrap.com
+
+Letöltés:
+	hivatkozás egy CDN
+	tényleges letöltés
+		a fájl letöltése
+		Node.js: npm install bootstrap
+
+getbootstrap.com
 
 
+csizma/
+  |-index.html
+  `-style.css
+mt-3
+
+m-3
+mt-3
+mb-3
+me-3
+
+sallai.andras@ktch.hu
 
 
+gyak/
+  |-index.html
+  |-style.css
+  `-bootstrap.min.css
+
+bootstrap.css
+bootstrap.min.css
+	minifikált
+
+A Bootstrap átnézve
+Ajánlott gyakorlat
+	rácsok
+	margók
+	konténer
+	navigáció
+	justify-content-center
+
+<nav class="justify-content-center nav">
 
 
 
