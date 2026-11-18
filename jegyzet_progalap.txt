@@ -576,7 +576,15 @@ Ajánlott gyakorlat
 
 <nav class="justify-content-center nav">
 
+Legközelebb:
+	Python tuple-től
 
+===================
+
+2028-11-18
+
+
+	
 
 
 
