@@ -583,13 +583,47 @@ Legközelebb:
 
 2028-11-18
 
+__Python tuple__
 
-	
+github.com/oktat/tan
 
+tupi/
+  |-main.py
 
+__Függvények__
 
+fejrész
+törzs
 
+__Fájlkezelés__
 
+fali/
+  |-main.py
+
+fp = open('adat2.txt', 'w', encoding='utf-8')
+
+fp.write('egy\n')
+fp.write('kettő\n')
+
+fp.close()
+
+fali/
+ |-fuz.py
+ |-adat3.txt
+
+__Modulok__
+
+import math
+
+modul/
+  |-haromszog.py
+  `-main.py
+(
+Üres utasítás a függvény törzsében:
+def valami():
+    pass
+
+)
 
 
 
