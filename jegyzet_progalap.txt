@@ -617,7 +617,8 @@ import math
 
 modul/
   |-haromszog.py
-  `-main.py
+  |-main.py
+  `-main2.py
 (
 Üres utasítás a függvény törzsében:
 def valami():
@@ -626,11 +627,77 @@ def valami():
 )
 
 
+def szamitKerulet(a, b, c):
+    return a + b + c
+
+def szamitTerulet(alap, magassag):
+    return alap * magassag / 2
+
+
+import haromszog
+
+eredmeny = haromszog.szamitKerulet(30, 35, 40)
+print('Kerület:', eredmeny)
+
+__OOP__
+
+Osztály class
+objektum object
+
+Osztályok
+	tulajdonságok
+	műveletek
+
+class Ember:
+	pass
+
+class Termekek:
+	pass
+
+class Ember
+	nev = 'Névtelen'
+	kor = -1
+
+opi/
+  |-dolgozo.py
+
+
+szamitKerulet
+
+
+class Dolgozo:
+    nev = 'névtelen'
+    telepules = 'ismeretlen'
+    fizetes = -1
+
+
+mari = Dolgozo()
+mari.nev = 'Csirke Mária'
+mari.telepules = 'Veszprém'
+print(mari.nev)
+print(mari.telepules)
+
+
+
+mari = Dolgozo()
+mari.nev = 'Csirke Mária'
+mari.telepules = 'Veszprém'
+mari.fizetes = 395
+
+
+mari = Dolgozo('Csirke Mária', 'Veszprém', 395)
 
 
 
 
-
-
+class Dolgozo:
+	nev = 'Névtelen'
+	telepules = 'ismeretlen'
+	fizetes = 0
+    def __init__(self):
+		nev = 'Mari'
+        self.nev = 'Névtelen'
+        self.telepules = 'ismeretlen'
+        self.fizetes = 0
 
 
