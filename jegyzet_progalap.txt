@@ -708,3 +708,63 @@ class Dolgozo:
 Terv:
 	Fájlkezelés Objektum Orientáltan.
 
+
+__Fájlkezelés gyakorlat__
+
+szit.hu
+Oktatás > Programozás > Feladatok > Általános
+
+Feladat 0813
+
+
+app = App()    application
+
+employee = Emplyoee()
+
+
+Fájlbeolvasás:
+# megjegyzés
+
+class App:
+
+    def __init__(self):
+        self.filename = 'jurtabt.txt'
+
+    def readConent(self):
+        fp = open(self.filename, 'r', encoding='utf-8')
+        lines = fp.readlines()
+
+        for line in lines :
+            line = line.rstrip()
+            name, city, address, birth, salary = line.split('#')
+            print(name)
+        fp.close()
+
+app = App()
+app.readConent()
+
+
+
+
+
+class Employee:
+    def __init__(self, name, city, address, birth, salary):
+        self.name = name
+        self.city = city
+        self.address = address
+        self.birth = birth
+        self.salary = salary
+
+Így használom:
+pista =  Employee('István', 'Pécs', 'Per utcat 8', '1995-08-01', 389)
+employee = Employee('István', 'Pécs', 'Per utcat 8', '1995-08-01', 389)
+emp = Employee('István', 'Pécs', 'Per utcat 8', '1995-08-01', 389)
+
+Programozási tételek
+
+szit.hu
+Oktatás > Programozás > Programozási tételek > Mondatszerű leírás
+
+szit.hu/int
+
+https://www.libri.hu/konyv/steve_krug.ne-tord-a-fejem.html
