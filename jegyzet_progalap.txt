@@ -701,3 +701,10 @@ class Dolgozo:
         self.fizetes = 0
 
 
+====================
+
+2026-11-25
+
+Terv:
+	Fájlkezelés Objektum Orientáltan.
+
